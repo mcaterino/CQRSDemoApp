@@ -2,6 +2,6 @@
 using CQRS_Demo.Models;
 
 namespace CQRS_Demo.Contracts {
-    public interface IProductRepository : IGenericRepository<Product> {
+    public interface IProductRepository : IGenericRepository<ProductDTO> {
     }
 }
