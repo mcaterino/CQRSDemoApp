@@ -5,6 +5,8 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>CQRS_Demo</RootNamespace>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <DocumentationFile>D:\Repos\WebApps\AspNetCore-WebApi\CQRSDemoApp\CQRS-Demo\CQRS.WebApi.xml</DocumentationFile>
   </PropertyGroup>
 
   <ItemGroup>
